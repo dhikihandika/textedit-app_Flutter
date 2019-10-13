@@ -1,6 +1,6 @@
 # textedit_app
 
-This in simple program textedit on Fluttter has been learning 
+This is project *Flutter basic widget and layout - textedit_app* learning when *Internship on PT. Parametrik Research and Development*
 
 ## Getting Started
 
