@@ -1,6 +1,6 @@
 # textedit_app
 
-Make simple program textedit on Fluttter
+This in simple program textedit on Fluttter has been learning 
 
 ## Getting Started
 
