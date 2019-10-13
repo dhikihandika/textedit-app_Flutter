@@ -1,6 +1,6 @@
 # textedit_app
 
-This is project *Flutter basic widget and layout - textedit_app* learning when *Internship on PT. Parametrik Research and Development*
+This is project *Flutter basic widget and layout "textedit_app"* learning when *Internship on PT. Parametrik Research and Development*
 
 ## Getting Started
 
