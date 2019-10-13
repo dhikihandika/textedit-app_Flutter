@@ -1,6 +1,6 @@
 # textedit_app
 
-edit text app on phone
+Make simple program textedit on Fluttter
 
 ## Getting Started
 
